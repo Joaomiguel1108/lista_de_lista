@@ -1,0 +1,7 @@
+print ([1951, 1969, 1984])
+
+print(["Maçãs, Laranjas, Morangos"])
+
+print (["Macaco", "Antedeguemom", 1, 2, 3])
+
+print([])
